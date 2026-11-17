@@ -1,0 +1,11 @@
+.dog_pic {
+    width: 300px;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
